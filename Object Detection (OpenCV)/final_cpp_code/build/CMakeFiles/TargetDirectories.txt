@@ -1,0 +1,3 @@
+/home/oliver/Desktop/sem3-projekt/pylon_openCV/build/CMakeFiles/main.dir
+/home/oliver/Desktop/sem3-projekt/pylon_openCV/build/CMakeFiles/edit_cache.dir
+/home/oliver/Desktop/sem3-projekt/pylon_openCV/build/CMakeFiles/rebuild_cache.dir
